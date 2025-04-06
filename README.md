@@ -1,6 +1,3 @@
-Here's a `README.md` file content for your Stone Paper Scissors game, tailored for your GitHub repository:
-
-```md
 # Stone Paper Scissors Game 🎮
 
 Welcome to the **Stone Paper Scissors** game! 🪨📄✂️ This is a simple and fun web-based game created using HTML, CSS, and JavaScript.
