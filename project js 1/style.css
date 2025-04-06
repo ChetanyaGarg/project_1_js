@@ -1,0 +1,115 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+body{
+ background-color: wheat;
+}
+
+
+#heading {
+  height: 60px;
+  width: 100vw;
+  background-color: black;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: small;
+}
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.choice {
+  height: 180px;
+  width: 180px;
+}
+#rock {
+  background-image: url("rock.png");
+  background-size: cover;
+  border-radius: 50%;
+  background-position: -77px;
+}
+#paper {
+  background-image: url("paper.png");
+  background-size: cover;
+  border-radius: 50%;
+  background-position: -79px;
+}
+#scissor {
+  background-image: url("scissors.png");
+  background-size: cover;
+  border-radius: 50%;
+  background-position: -80px;
+}
+.choices {
+  height: 180px;
+  width: 100vw;
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  align-items: center;
+}
+.score{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    margin-top: 40px;
+}
+p{
+  font-size: 30px;
+}
+.point{
+  font-size: 80px;
+  color: goldenrod;
+  position: relative;
+  left: 3px;
+}
+.name{
+  color: grey;
+  position: relative;
+  left: 3px;
+}
+.msg{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 40px;
+  font-size: 30px;
+  height: 80px;
+}
+.choice:hover{
+  border: 6px solid black;
+}
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  background-color: black;
+  width: 320px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+  font-size: 30px;
+  
+}
+#reset{
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  background-color: red;
+  width: 150px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+  font-size: 20px;
+}
+.re{
+  display: flex;
+  justify-content: center;
+}
