@@ -23,7 +23,7 @@ This project implements the classic Stone-Paper-Scissors game, allowing users to
 ## 🛠️ How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ChetanyaGarg/game1.git
+   git clone https://github.com/ChetanyaGarg/project_1_js.git
    ```
 2. Open `index.html` in any browser.
 3. Enjoy the game! 🎉
