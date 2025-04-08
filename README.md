@@ -41,7 +41,3 @@ This project is open-source and available under the MIT License.
 
 ---
 
-Hope this fits well! Let me know if you need changes. 🚀😃
-```
-
-You can add a screenshot of your game under **Preview** to make it visually appealing! Let me know if you want to tweak anything. 🚀
