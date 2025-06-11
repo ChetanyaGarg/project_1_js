@@ -36,8 +36,5 @@ This project implements the classic Stone-Paper-Scissors game, allowing users to
 ## 👏 Contributing
 Feel free to fork and improve the game! Any suggestions or improvements are welcome. Open a pull request if you have some cool features to add. 🚀
 
-## 📝 License
-This project is open-source and available under the MIT License.
-
 ---
 
